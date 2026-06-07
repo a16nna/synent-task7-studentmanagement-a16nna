@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1001,
+        "name": "Maria",
+        "age": 12,
+        "course": "Maths",
+        "marks": 56.0,
+        "registered_on": "07-06-2026 07:58:53"
+    },
+    {
+        "id": 1002,
+        "name": "Eric",
+        "age": 13,
+        "course": "Science",
+        "marks": 65.0,
+        "registered_on": "07-06-2026 07:59:25"
+    },
+    {
+        "id": 1003,
+        "name": "Stefan",
+        "age": 11,
+        "course": "English",
+        "marks": 78.0,
+        "registered_on": "07-06-2026 08:00:30"
+    }
+]
